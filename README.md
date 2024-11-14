@@ -23,7 +23,8 @@ Qubic Core Services (QCS) is requesting additional funding from the Computor Con
 
 **Impact**
 The implementation of this marketing boosters will:<br>
--Allow us to target T1 media outlets like coindesk or cointelegraph. We can get in-depth articles or newsletter placements to reach a wider audience.
+-Allow us to target T1 media outlets like coindesk or cointelegraph. We can get in-depth articles or newsletter placements to reach a wider audience. <br>
+
 -Strengthen brand awareness and market presence.<br>
 
 
