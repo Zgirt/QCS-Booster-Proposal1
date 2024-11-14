@@ -7,7 +7,7 @@ Proposal: Request to approve the base Qubic Core Services budget proposal
 
 
 -Option 0: **No, I don’t want**<br>
--Option 1: **Yes, approve the Booster1 proposal. Payout 25 bn**<br>
+-Option 1: **Yes, approve the Booster 1 proposal. Payout 25 bn**<br>
 
 ------------------------------------------------------------------------------------
 
