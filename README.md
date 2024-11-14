@@ -18,15 +18,13 @@ Overview
 Qubic Core Services (QCS) is requesting additional funding from the Computor Control Fund (CCF) to amplify our marketing efforts. This proposal consists of two separate boosters aimed at driving growth and enhancing ecosystem engagement.<br>
 
 -Enhanced Marketing Campaigns: To increase brand visibility and drive user acquisition through targeted outreach.<br>
--Tooling Support: Utilizing advanced growth marketing tools, including Addressable and Spindle, to optimize campaign performance.<br>
 -Community Engagement: Supporting small ecosystem events and initiatives to foster community involvement and growth.<br>
 
 
 **Impact**
-The implementation of these marketing boosters will:<br>
--Boost user growth and engagement.<br>
+The implementation of this marketing boosters will:<br>
+-Allow us to target T1 media outlets like coindesk or cointelegraph. We can get in-depth articles or newsletter placements to reach a wider audience.
 -Strengthen brand awareness and market presence.<br>
--Accelerate the adoption of Qubic Core Services across strategic markets.<br>
 
 
 Voting
